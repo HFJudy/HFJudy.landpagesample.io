@@ -1348,9 +1348,3 @@ border: none; /* 去掉边框 */
     margin-bottom: 13px;;
 }
 
-
-.landpage .rectangle {
-  position: absolute;
-  top: 0;
-  width: 1550px;
-}
