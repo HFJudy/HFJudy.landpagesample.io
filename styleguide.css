@@ -5,13 +5,13 @@
   --tom-thumb: #3e5832;
   --white: #ffffff;
 
-  --font-size-l: 20px;
-  --font-size-m: 18px;
-  --font-size-s: 16px;
-  --font-size-xl: 30px;
-  --font-size-xs: 14px;
-  --font-size-xxl: 48px;
-  --font-size-xxs: 12px;
+  --font-size-l: 2vh;
+  --font-size-m: 1.8vh;
+  --font-size-s: 1.6vh;
+  --font-size-xl: 3vh;
+  --font-size-xs: 1.4vh;
+  --font-size-xxl: 4.8vh;
+  --font-size-xxs: 1.2vh;
 
   --font-family-aboreto: "Aboreto", Helvetica;
   --font-family-abril_fatface: "Abril Fatface", Helvetica;
