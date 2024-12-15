@@ -6,6 +6,12 @@
 
 }
 
+@media (max-width: 1600px) {
+    .container {
+        width: 100%; /* Full width for smaller screens */
+    }
+}
+
 .landpage {
   align-items: flex-start;
   background-color: #d1a54c;
