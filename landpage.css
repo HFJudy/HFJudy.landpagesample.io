@@ -154,7 +154,6 @@ border: none; /* 去掉边框 */
   text-align: center;
   white-space: nowrap;
   width: fit-content;
-  transition: background-color 0.3s;
 }
 
 .landpage .text-1:hover{
