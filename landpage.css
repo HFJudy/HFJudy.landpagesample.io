@@ -1,21 +1,3 @@
-/* screen - landpage */
-
-*{
-  margin:0;
-  padding:0;
-  
-}
-
-
-.landpage {
-  align-items: flex-start;
-  background-color: #d1a54c;
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-  width: 100vw; /* 宽度为100%视口宽度 */
-  height: auto; /* 高度自动调整 */
-}
 
 
 
