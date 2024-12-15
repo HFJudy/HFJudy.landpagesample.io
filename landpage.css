@@ -157,11 +157,11 @@ border: none; /* 去掉边框 */
   transition: background-color 0.3s;
 }
 
-.landpage .text-1 :hover{
-  color:#BF6D7D;
-    -webkit-text-stroke: 0.3px;
-  border-bottom: .1rem solid #EEECE0;
-  padding-bottom: .15rem;
+.landpage .text-1:hover{
+    color:#BF6D7D;
+      -webkit-text-stroke: 0.3px;
+    border-bottom: .1rem solid #EEECE0;
+    padding-bottom: .15rem;
 }
 
 .landpage .line-5 {
