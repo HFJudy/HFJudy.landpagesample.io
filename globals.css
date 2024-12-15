@@ -7,25 +7,25 @@
   font-family: "PP Editorial New-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/PPEditorialNew-Regular.otf") format("opentype");
+  src: url("PPEditorialNew-Regular.otf") format("opentype");
 }
 @font-face {
   font-family: "PP Editorial New-UltralightItalic";
   font-style: italic;
   font-weight: 400;
-  src: url("../fonts/PPEditorialNew-Italic.otf") format("opentype");
+  src: url("PPEditorialNew-Italic.otf") format("opentype");
 }
 @font-face {
   font-family: "PP Editorial New-Italic";
   font-style: italic;
   font-weight: 400;
-  src: url("../fonts/PPEditorialNew-Italic.otf") format("opentype");
+  src: url("PPEditorialNew-Italic.otf") format("opentype");
 }
 @font-face {
   font-family: "Good Times-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/good times rg.ttf") format("truetype");
+  src: url("good times rg.ttf") format("truetype");
 }
 
 
