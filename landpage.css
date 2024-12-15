@@ -1236,7 +1236,7 @@ border: none; /* 去掉边框 */
   background-color: var(--white);
   display: flex;
   height: 49px;
-  min-width: 281px;
+  min-width: 102px;
   padding: 15.7px 12.7px;
 }
 
@@ -1260,23 +1260,36 @@ border: none; /* 去掉边框 */
 }
 
 .landpage .inputBox {
-  width: 100%; /* 宽度为100% */
-   padding: 10px; /* 内边距 */
-   border: 0px solid #fff; /* 边框颜色和宽度 */
-   border-radius: 5px; /* 圆角边框 */
-   font-size: 20px; /* 字体大小 */
-   color: #535C47; /* 字体颜色 */
-   background-color: #f9f9f9; /* 背景颜色 */
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-
+  background-color: var(--white);
+  display: flex;
+  height: 49px;
+  min-width: 281px;
+  padding: 15.7px 12.7px;
+  font-size: 10px;
+  margin-bottom: 13px;
 }
 
 .landpage input:focus {
-    border-color: #4CAF50; /* 聚焦时边框颜色 */
-    outline: none; /* 去掉默认的轮廓 */
-    background-color: #fff; /* 聚焦时背景颜色 */
+    border-color: var(--white);
+    outline: var(--white);
+    background-color: var(--white);
+    font-style: var(--black);
+    height: 49px;
+    min-width: 281px;
+
 }
+
+.landpage form .inputBox input{
+  padding: 15.7px 12.7px;
+  height: 49px;
+  min-width: 281px;
+    color: #black;
+    background:none;
+          background-color: var(--white);
+
+}
+
+
 .landpage .hovertrue-1 {
   align-items: center;
   display: inline-flex;
@@ -1288,6 +1301,19 @@ border: none; /* 去掉边框 */
   margin-top: -16.00px;
   padding: 0px 0px 4px 4px;
   position: relative;
+}
+
+.landpage .email-address {
+  -webkit-text-stroke: 0.3px var(--ivory);
+  color: #3b4220;
+  font-family: var(--font-family-good_times-regular);
+  font-size: 12px;
+  font-weight: 400;
+  height: 17px;
+  letter-spacing: 0.90px;
+  line-height: 26px;
+  opacity: 0.3;
+  white-space: nowrap;
 }
 
 .landpage .component {
@@ -1313,13 +1339,15 @@ border: none; /* 去掉边框 */
 
 .landpage .oldschool-button-3 {
   align-items: center;
-  border-radius: 5px;
+  border-radius:0px;
   display: flex;
   gap: 16px;
   justify-content: center;
   overflow: hidden;
   padding: 16px;
+    margin-bottom: 13px;;
 }
+
 
 .landpage .rectangle {
   position: absolute;
