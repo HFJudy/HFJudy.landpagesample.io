@@ -17,9 +17,9 @@
   background-color: #d1a54c;
   display: flex;
   flex-direction: column;
-  height: 3971px;
   overflow: hidden;
-  width: 1550px;
+  width: 100vw; /* 宽度为100%视口宽度 */
+  height: auto; /* 高度自动调整 */
 }
 
 
